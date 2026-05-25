@@ -1,0 +1,14 @@
+version: "1"
+context:
+  active-host: "so557.us1.dbt.com"
+  active-project: "70506183135454"
+projects:
+  - project-name: "dbt-pilot"
+    project-id: "70506183135454"
+    account-name: "CellphoneS"
+    account-id: "70506183133377"
+    account-host: "so557.us1.dbt.com"
+    token-name: "cloud-cli-768a"
+    token-value: "dbtu_xynIP1UyxpTBpXmXwGkAc2zVpDh2QE_kUET-jNZGHhEgeg53zk"
+
+

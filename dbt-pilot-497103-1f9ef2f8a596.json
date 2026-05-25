@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dbt-pilot-497103",
+  "private_key_id": "1f9ef2f8a59640234aea63960b0da0b49787ee7e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDb4umz3W8k0a3r\nUD2bZ4w2ZbGIv0awiL5o0p6walyOAU8p5qv2PFsRPNwZc38ahT9MwKsg8g5vw/qz\nDXHl/Pd4d9gA/TgyGBk3y916EtbeYXCawc36uKJlhnFIPsgqPgDEIFp4rTIRW4DP\nQZlkHVzTfkLwDaZTkg4btBu+BuLsoGwvMafn/Vi8XoTkniKO6twTLxjhgYnqcEmj\n31etrCkPzbcrxjugDHjCyb6ZAbp9/oE12G4FrXNRSq1Zk4oYyCAlqa7rtoYGZukP\nDCKpFCQKk+nTs/VQ2cAte3KCJ97ZxjF5aFm4cFUw7+G21bOyRc5xJ970ZmygaRH/\nNEcm/a3rAgMBAAECggEADkayQ7JJyAsxDokcJt3XNaTunOFGVqnaKvYZxXxyW+nr\n2N2YJpmOlBTueVyNUQx7qqELu0zb8Re5TCzAS11cN98YECBgqKf14zCCRa25c6DB\n7dpNZEzehlbvPfCNkGiMJi+vkAw2pvfY6hvpOJ3LbBPThsBsHxrpfZT5BCJwU0qM\nRQI5HV5ouO0I+eLckwKNNEkKNeTgcbzlbqVBli1nIf2uSlETdbn6H8KWrLekwvCP\nf2hlVXDDNPIjcQvSt3pyHoveD8jcYLzo7jfEaboIfIq49vUEmoXKv3O/EQvvlOYg\n5mAH52zCuBGyTRQW03MUOUg1SBwFf43FGNqpUm6UqQKBgQD37w9RlGjXKEoiJDUk\nfIQ1Bu/o8kwii8vRHXnBWQYh2sRhaT9Gdw0sJ7awJzyfJFv0E5Z81rE21te2t76e\ns3q5V9+bYPUjy24+yr+w0tlcUUUkABgpcWBmLhG1SQQ5ikri37T6YDXWZkvUV44n\nGAer9L0q8qwSoixug6gEWfpVVQKBgQDjCkHbIlWCKPD0aiTbySxXGVkWm++ITYkG\ninJUANcLJ4K65YVYvoo6ZEgn0MAlAGRBNUamh3tDxpi5MW2xBJuzJzHS03BVFBZ3\na4tHVLqOiHEJOul+xQm66HXr3PeRSR8lqIFb40ny61hnNhp949RimYKsxJUiIDa0\nDOt9otf2PwKBgG47eaIZy+stXJiFZKNOQTGaXfxCDhul7/6PjlyqihFvRLTSqHFZ\n6R9ioNT8/PT8o22Hb/cdNTlemBYC59uDjOLu8NoSZ6t8fQ2p80RY2o8zCvyQli2G\n3QdRIEprplc250irkbloIUerv7cvHmK/SlnnvFtl/Z9jP0H7gy48GxLpAoGBANph\n/WKIrfMa6lpO1tFJugq1aQnkSAy1d74A4WOHw1EJWifnqdHoxRDRcM5Lbuaob8aB\nNknsO1a/6hsIPlhs9E7ovnXpxz0uq0WG/ltIVoHPH9se/YVghbFw9CxBSShIS1tv\nr63w/Cpa0ZfFZMn+oUWOHzGLjV9b2QJrAwC/6DcFAoGBAIFhYsI4NR3iTCc+6AUK\naBNLUMi7PifP4ShPgiVIs3YZQe406b8lYsaxu04zK+/2nRzEmHKMKb8ogUI+klGq\ndO3/gH5yTxVXb8fPIr0zcsIAEKasz2S1UTOCOV6p1yjz+8JqcJ/iVwq2AB9emxn8\nV56gbEmWZBHgSKvS4PdfmIAc\n-----END PRIVATE KEY-----\n",
+  "client_email": "dbt-pilot@dbt-pilot-497103.iam.gserviceaccount.com",
+  "client_id": "110309908465357164144",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbt-pilot%40dbt-pilot-497103.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
